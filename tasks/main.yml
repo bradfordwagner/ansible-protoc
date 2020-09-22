@@ -59,7 +59,7 @@
 - name: link executables...
   become: yes
   become_user: root
-  with_items:
+  loop:
     - src: /bin/protoc
       dest: '{{ protoc_parent_install_dir }}/bin/{{ item }}'
     - src: /include/google
