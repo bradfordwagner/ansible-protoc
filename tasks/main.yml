@@ -63,7 +63,7 @@
     - src: /bin/protoc
       dest: '{{ protoc_parent_install_dir }}/bin/protoc'
     - src: /include/google
-      dest: '{{ protoc_include_install_dir }}'
+      dest: '{{ protoc_include_install_dir }}/google'
   file:
     src: '{{ protoc_install_dir }}/{{ item.src }}'
     dest: '{{ item.dest }}'

@@ -30,7 +30,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d99fc6-a957-4bbe-b4f0-a9f61674f9e0" name="Default Changelist" comment="switch to loop" />
+    <list default="true" id="00d99fc6-a957-4bbe-b4f0-a9f61674f9e0" name="Default Changelist" comment="switch to loop">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tasks/main.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +74,7 @@
       <updated>1600784948189</updated>
       <workItem from="1600784949903" duration="68000" />
       <workItem from="1600785054544" duration="1193000" />
+      <workItem from="1600786382988" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="switch to loop">
       <created>1600785789963</created>
@@ -95,6 +99,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="switch to loop" />
@@ -105,9 +110,9 @@
       <screen x="0" y="0" width="2560" height="1600" />
     </state>
     <state x="1284" y="816" width="1264" height="772" key="RollbackChangesDialog/2560.562.1920.1080/4480.1023.1920.1200/0.0.2560.1600@0.0.2560.1600" timestamp="1600785492285" />
-    <state x="1622" y="569" width="588" height="486" key="find.popup" timestamp="1600785446733">
+    <state x="1622" y="569" width="588" height="486" key="find.popup" timestamp="1600786407845">
       <screen x="0" y="0" width="2560" height="1600" />
     </state>
-    <state x="1622" y="569" width="588" height="486" key="find.popup/2560.562.1920.1080/4480.1023.1920.1200/0.0.2560.1600@0.0.2560.1600" timestamp="1600785446733" />
+    <state x="1622" y="569" width="588" height="486" key="find.popup/2560.562.1920.1080/4480.1023.1920.1200/0.0.2560.1600@0.0.2560.1600" timestamp="1600786407845" />
   </component>
 </project>
