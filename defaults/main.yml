@@ -3,6 +3,7 @@ protoc_ver: 3.12.4
 protoc_platform: linux-x86_64
 protoc_mirror: https://github.com/protocolbuffers/protobuf/releases/download
 protoc_parent_install_dir: /usr/local
+protoc_include_install_dir: /usr/local/include
 protoc_checksums:
   '3.12.1':
     # https://github.com/protocolbuffers/protobuf/releases/download/v3.12.1/protoc-3.12.1-linux-aarch_64.zip

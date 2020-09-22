@@ -60,8 +60,11 @@
   become: yes
   become_user: root
   with_items:
-    - protoc
+    - src: /bin/protoc
+      dest: '{{ protoc_parent_install_dir }}/bin/{{ item }}'
+    - src: /include/google
+      dest: '{{ protoc_include_install_dir }}'
   file:
-    src: '{{ protoc_install_dir }}/bin/{{ item }}'
-    dest: '{{ protoc_parent_install_dir }}/bin/{{ item }}'
+    src: '{{ protoc_install_dir }}/{{ item.src }}'
+    dest: '{{ item.dest }}'
     state: link
