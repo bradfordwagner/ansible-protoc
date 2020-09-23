@@ -60,9 +60,9 @@
   become: yes
   become_user: root
   loop:
-    - src: /bin/protoc
+    - src: bin/protoc
       dest: '{{ protoc_parent_install_dir }}/bin/protoc'
-    - src: /include/google
+    - src: include/google
       dest: '{{ protoc_include_install_dir }}/google'
   file:
     src: '{{ protoc_install_dir }}/{{ item.src }}'

@@ -31,7 +31,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00d99fc6-a957-4bbe-b4f0-a9f61674f9e0" name="Default Changelist" comment="switch to loop">
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../tasks/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tasks/main.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       <updated>1600784948189</updated>
       <workItem from="1600784949903" duration="68000" />
       <workItem from="1600785054544" duration="1193000" />
-      <workItem from="1600786382988" duration="34000" />
+      <workItem from="1600786382988" duration="1878000" />
     </task>
     <task id="LOCAL-00001" summary="switch to loop">
       <created>1600785789963</created>
